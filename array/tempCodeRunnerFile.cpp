@@ -1,0 +1,1 @@
+lower_bound(vec.begin(), vec.end(),5)-vec.begin()
